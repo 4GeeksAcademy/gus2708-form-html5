@@ -1,0 +1,23 @@
+.bi-currency-dollar::before {
+    align-self: center;
+    margin-top: 10px;
+}
+
+.cards-section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: fit-content;
+    border-radius: 10px;
+
+}
+
+.card-icon{
+    width: 2rem;
+    color: white;
+}
+
+svg {
+    width: 2rem;
+    fill: white; 
+}
